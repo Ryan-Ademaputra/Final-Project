@@ -204,13 +204,15 @@ section {
     align-items: center;
     justify-content: center;
     background: #ffffff;
+    border: 2px solid #222;
     padding: 20px;
     border-radius: 14px;
 }
 
 .box-img {
-    width: 220px;
-    height: 220px;
+    width: 100px;
+    height: 100px;
+
 }
 
 .box-img img {
@@ -221,6 +223,7 @@ section {
 .box h2 {
     font-size: 1.3rem;
     color: var(--text-color);
+    padding-top: 5%;
 }
 
 .box h3 {
@@ -259,7 +262,7 @@ section {
 }
 
 .cta {
-    background: #000000;
+    background: #222;
     padding: 70px;
     text-align: center;
     width: 66%;
