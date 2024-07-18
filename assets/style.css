@@ -126,8 +126,11 @@ section {
     transition: .3s;
 }
 
+/* About Style */
+
+
 .about {
-    padding: 20%;
+    padding: 10%;
     display: grid;
     grid-template-columns: repeat(2, 2fr);
     grid-gap: 1.5rem;
