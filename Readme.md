@@ -15,6 +15,7 @@ Welcome to my personal portfolio website repository! This website showcases my s
 
 This website serves as a platform to display my professional work, skills, and achievements. It provides visitors with an overview of who I am, what I do, and the projects I have worked on. 
 
+## Preview
 ![home!](/assets/preview/home.png)
 ![about!](/assets/preview/about.png)
 ![skill!](/assets/preview/skill.png)
