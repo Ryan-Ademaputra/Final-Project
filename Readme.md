@@ -5,11 +5,11 @@ Welcome to my personal portfolio website repository! This website showcases my s
 
 ## Table Of Content
 
-- [`Home`](#home)
-- [`About`](#about)
-- [`Skill`](#skill)
-- [`Contact`](#contact)
-- [`Service`](#service)
+- [`About`](#About)
+- [`preview`](#Preview)
+- [`features`](#Features)
+- [`Technologies and Tools Used`](#TechnologiesAndToolsUsed)
+- [`Link`](#Link)
 
 ## About
 
